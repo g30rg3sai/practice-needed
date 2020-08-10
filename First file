@@ -23,3 +23,17 @@ this is just a another child2 to practice how the things work if i add the same 
  this is child one created the child branch to get away after getting new idea its like away from main idea so created the branch if evryone likes my idea i will give a pull request(merge) to the master
  
  now i am editing this file from the git which is in my computer by cloning--- git clone URL then go to directory and check status to know evrything fine
+
+after adding user name and emial you can verify using git config --list
+
+git log to view the changes
+
+to make changes we need to know about the remote so -- git remote ------ it provies remote name here it is origin
+
+if you enter git remote -v ------------it will gives us the origin info that is our cloned github link
+
+then you can enter git push origin -------- to push data to the github repository then it will ask you to login------ thats it it will add to your repository
+
+
+
+
