@@ -29,3 +29,5 @@ ok so now the issue tab in the Github
 we can create a new issue if you would like to add something, or provide an idea or if you have any issues with the application you can provide the problem with the screen shot
 
 if you want to close the issue by just adding the commit info like this fixes #4 , the issue will close automatically
+
+As already we know that we can add the hash value of the commit in the issue section
