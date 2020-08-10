@@ -27,3 +27,5 @@ This is for fork and pull request to the master file in the different account, j
 ok so now the issue tab in the Github
 
 we can create a new issue if you would like to add something, or provide an idea or if you have any issues with the application you can provide the problem with the screen shot
+
+if you want to close the issue by just adding the commit info like this fixes #4 , the issue will close automatically
