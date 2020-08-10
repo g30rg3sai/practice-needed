@@ -15,4 +15,4 @@ one more thing,
 commit - it means like a save(save the changes is commit the changes in github)
  this is child one created the child branch to get away after getting new idea its like away from main idea so created the branch if evryone likes my idea i will give a pull request(merge) to the master
 
-this is editing in the master just to see how it will react to the child 2 branch when i merget he pull request
+this is editing in the master just to see how it will react to the child 2 branch when i merget he pull request-- yes there is a conflict issue because we added the line at same place.we can resolve the issues and change the lines
