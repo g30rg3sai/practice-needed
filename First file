@@ -21,7 +21,19 @@ this is editing in the master just to see how it will react to the child 2 branc
 this is just a another child2 to practice how the things work if i add the same line in the master
 
  this is child one created the child branch to get away after getting new idea its like away from main idea so created the branch if evryone likes my idea i will give a pull request(merge) to the master
+
+
+This is for fork and pull request to the master file in the different account, just to try how the pull request works and one more thing if it is same account it is merge account 
+
+ok so now the issue tab in the Github
+
+we can create a new issue if you would like to add something, or provide an idea or if you have any issues with the application you can provide the problem with the screen shot
+
+if you want to close the issue by just adding the commit info like this fixes #4 , the issue will close automatically
+
+As already we know that we can add the hash value of the commit in the issue section
  
+
  now i am editing this file from the git which is in my computer by cloning--- git clone URL then go to directory and check status to know evrything fine
 
 after adding user name and emial you can verify using git config --list
@@ -33,7 +45,5 @@ to make changes we need to know about the remote so -- git remote ------ it prov
 if you enter git remote -v ------------it will gives us the origin info that is our cloned github link
 
 then you can enter git push origin -------- to push data to the github repository then it will ask you to login------ thats it it will add to your repository
-
-
 
 
