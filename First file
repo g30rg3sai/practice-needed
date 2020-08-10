@@ -31,3 +31,4 @@ we can create a new issue if you would like to add something, or provide an idea
 if you want to close the issue by just adding the commit info like this fixes #4 , the issue will close automatically
 
 As already we know that we can add the hash value of the commit in the issue section
+ closing 6
